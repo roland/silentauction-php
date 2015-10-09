@@ -1,0 +1,4 @@
+<?php
+	require('DbConfig.php');
+
+?>
